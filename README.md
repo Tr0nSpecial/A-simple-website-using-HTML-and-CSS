@@ -2,10 +2,10 @@
 This is a simple website of my school Delhi Public Dhanbad.
 In this I attempt to cover all the properties of HTML and CSS.
 The website consists of the following sections:
-DPS(Cover Page)
-Home
-Courses
-Activities
-Faculties
-Marks
-Feedback
+1.DPS(Cover Page)
+2.Home
+3.Courses
+4.Activities
+5.Faculties
+6.Marks
+7.Feedback
